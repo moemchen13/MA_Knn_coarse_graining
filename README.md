@@ -20,7 +20,7 @@ This repository accompanies my master’s thesis on graph coarse-graining viewed
 ## Important Content
 - [Instantiating](./coarse_graining.py)
 - [Coarse graining](./OOP_Multilevel_tsne.py)
-- [Conencting_nodes](./OOP_Connecting.py)
+- [Connecting_nodes](./OOP_Connecting.py)
 - [Sampling_nodes](./OOP_Sampling.py)
 - [Dataloader](./dataloader.py)
 
